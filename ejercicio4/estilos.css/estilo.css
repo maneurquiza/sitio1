@@ -1,0 +1,166 @@
+html{
+    display: flex;
+    justify-content: center;
+}
+body{
+    width: 1100px;
+    background-color: gold;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    width: 200px;
+   
+    display: flex;
+    
+}
+#logo {
+    width: 300px;
+    height: 200px;
+    background-color: darkcyan;
+}
+nav{
+    width: 900px;
+    height: 200px;
+    background-color: black;
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    width: 760px;
+    height: 150px;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-around;
+}
+.clase1{
+    width: 800px;
+    height: 200px;
+}
+main{
+    height: 810px;
+    width: 1100px;
+    display: flex;
+}
+aside{
+    height: 810px;
+    width: 300px;
+    background-color: steelblue;
+}
+article{
+    height: 810px;
+    width: 800px;
+    background-color:black;
+}
+
+footer{
+    height: 100px;
+    width: 1100px;
+    background-color: lime;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.art1{
+    width: 760px;
+    height: 250px;
+    padding: 20px;
+    display: flex;
+}
+#img1{
+    background-color: violet;
+}
+#t1{
+    width: 490px;
+    height: 50px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-family: Koulen;
+}
+#inf1{
+    width: 490px;
+    height: 200px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Koulen;
+}
+#caja1{
+    width: 760px;
+    height: 250px;
+    background-color:white;
+}
+.art2{
+    width: 760px;
+    height: 250px;
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+#img2{
+    background-color: violet;
+}
+#t2{
+    width: 490px;
+    height: 50px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-family: Smooch;
+}
+#inf2{
+    width: 490px;
+    height: 200px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Smooch;
+}
+#caja2{
+    width: 760px;
+    height: 250px;
+    background-color: white;
+}
+.art3{
+    width: 760px;
+    height: 250px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+}
+#img3{
+    background-color: violet;
+}
+#t3{
+    width: 490px;
+    height: 50px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-family: Inconsolata;
+}
+#inf3{
+    width: 490px;
+    height: 200px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inconsolata;
+}
+#caja3{
+    width: 760px;
+    height: 250px;
+    background-color: white;
+}
